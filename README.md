@@ -7,8 +7,11 @@ Use the keyboard to move your paddle up and down.
 # How to play: 
 
 "w" = Left Up
+
 "s" = Left Down
+
 "i" = Right Up
+
 "k" = Right Down
 
 
