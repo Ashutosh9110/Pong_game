@@ -2,5 +2,5 @@
 A Simple game using Python
 
 
-![image](https://github.com/Ashutosh9110/Pong_game/assets/113494449/da585f45-39c6-403e-a372-e95478f9ceeb)
+![image](https://github.com/Ashutosh9110/Pong_game/assets/113494449/06102664-08bb-4363-8d09-8c0abd52109a)
 
